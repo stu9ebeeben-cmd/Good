@@ -1,0 +1,6 @@
+{
+  "name": "聚惠商城 - 移动电商",
+  "description": "极速特惠移动电商平台，涵盖首页精选、双轨分类、天天特价拼单、商品详情与智能购物车",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
